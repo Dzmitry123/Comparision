@@ -1,0 +1,15 @@
+C:\Users\lapppa\source\repos\Comparisons\Comparision\bin\Debug\net6.0\Comparision.exe
+C:\Users\lapppa\source\repos\Comparisons\Comparision\bin\Debug\net6.0\Comparision.deps.json
+C:\Users\lapppa\source\repos\Comparisons\Comparision\bin\Debug\net6.0\Comparision.runtimeconfig.json
+C:\Users\lapppa\source\repos\Comparisons\Comparision\bin\Debug\net6.0\Comparision.dll
+C:\Users\lapppa\source\repos\Comparisons\Comparision\bin\Debug\net6.0\Comparision.pdb
+C:\Users\lapppa\source\repos\Comparisons\Comparision\obj\Debug\net6.0\Comparision.csproj.AssemblyReference.cache
+C:\Users\lapppa\source\repos\Comparisons\Comparision\obj\Debug\net6.0\Comparision.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lapppa\source\repos\Comparisons\Comparision\obj\Debug\net6.0\Comparision.AssemblyInfoInputs.cache
+C:\Users\lapppa\source\repos\Comparisons\Comparision\obj\Debug\net6.0\Comparision.AssemblyInfo.cs
+C:\Users\lapppa\source\repos\Comparisons\Comparision\obj\Debug\net6.0\Comparision.csproj.CoreCompileInputs.cache
+C:\Users\lapppa\source\repos\Comparisons\Comparision\obj\Debug\net6.0\Comparision.dll
+C:\Users\lapppa\source\repos\Comparisons\Comparision\obj\Debug\net6.0\refint\Comparision.dll
+C:\Users\lapppa\source\repos\Comparisons\Comparision\obj\Debug\net6.0\Comparision.pdb
+C:\Users\lapppa\source\repos\Comparisons\Comparision\obj\Debug\net6.0\Comparision.genruntimeconfig.cache
+C:\Users\lapppa\source\repos\Comparisons\Comparision\obj\Debug\net6.0\ref\Comparision.dll
